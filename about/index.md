@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 tags: [about]
 date: 2016-03-21
 comments: false
