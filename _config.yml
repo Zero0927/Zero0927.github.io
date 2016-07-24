@@ -5,7 +5,7 @@ description:        "World is a book, people who don't travel only read one page
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'https://images2.alphacoders.com/213/213910.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://siyuanzhou.com
