@@ -7,7 +7,7 @@ comments: false
 ---
 
  <br><br>
-<img src="http://memesvault.com/wp-content/uploads/Challenge-Accepted-Meme-07.jpg" style="width: 500px">
+<img src="https://pbs.twimg.com/profile_images/2254967734/Icon512.png" style="width: 500px">
 <br><br>
 
 <p>My name is Scott Zhou, and my Chinese name is Siyuan. I received my Bachelor of Science degree in Computer Science from Univerity of Washington. I enjoy working on both front end and back end including project design, implementation, optimization and monitoring. </p>
