@@ -1,11 +1,11 @@
 # Site
 title:              Scott Zhou
 bio:                'Generalist and quick learner.'
-description:        "World is a book, people who don't travel only read one page."
+description:        "Will code for food."
 reading_time:       true
 words_per_minute:   200
 logo:               'https://d3cg7yq507vrx4.cloudfront.net/f8/6e/80/e2/imagen-rage-comics-0thumb.jpg'
-background:         'https://wallpaperscraft.com/image/seattle_usa_top_view_panorama_58586_1920x1080.jpg'
+background:         'https://images.wallpaperscraft.com/image/seattle_united_states_washington_night_85124_1920x1200.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://siyuanzhou.com
