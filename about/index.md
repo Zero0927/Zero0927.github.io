@@ -11,9 +11,9 @@ comments: false
 <br><br>
 
 <p>Dived into the world software development since 2014. <p>
-<p[>Shortly after I earned my B.S degree in Computer Science from University of Washington, I served in the United States of Navy for three years, and have been recognized twice for “Early Promote” sailor with an individual Award “Navy Marine Corps Achievement Medal”. <p>
-<p>Experienced in Full-Stack Web Development. \n
-Current Graduate student study Computer Science in City University of Seattle<p>
+<p>Shortly after I earned my B.S degree in Computer Science from University of Washington, I served in the United States of Navy for three years, and have been recognized twice for “Early Promote” sailor with an individual award “Navy Marine Corps Achievement Medal”. <p>
+<p>Experienced in Full-Stack Web Development. <p>
+<p>Current Graduate student study Computer Science in City University of Seattle.<p>
 
 
 
