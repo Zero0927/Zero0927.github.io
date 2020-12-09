@@ -6,7 +6,7 @@ categories: [JavasScript, HTML, CSS]
 tags: [JavaScript, HTML5,  Web, Bootstrap]
 ---
 
-Static Responsive page use bootstrap.
+Another practice of modern web site.
 
 
 <a class="btn btn-default" href="http://www.siyuanzhou.com/Museum_Of_Candy/">See dome</a>
