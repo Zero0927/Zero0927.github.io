@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todo app in CLI
+title: Seattle Forecast Prediction
 fullview: true
 categories: [Python]
 tags: [Machine Learning, Rain Prediction]
