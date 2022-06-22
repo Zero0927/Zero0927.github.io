@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 tags: [about]
-date: 2021-05-10
+date: 2022-06-22
 comments: false
 ---
 
@@ -10,10 +10,9 @@ comments: false
 <img src="https://pbs.twimg.com/profile_images/2254967734/Icon512.png" style="width: 500px">
 <br><br>
 
-<p>Dived into the world software development since 2014. <p>
-<p>Shortly after I earned my B.S degree in Computer Science from University of Washington, I served in the United States of Navy for three years, and have been recognized twice for “Early Promote” sailor with an individual award “Navy Marine Corps Achievement Medal”. <p>
-<p>Experienced in Full-Stack Web Development. <p>
-<p>Current Graduate student study Computer Science in City University of Seattle.<p>
-
-
+<p>Cleared Microsoft Vendor Developer specializing Networking Script and working on Federal Projects.<p?> 
+<p>Doctoral student in Information technology at City University of Seattle.<p>
+<p>B.S degree in Computer Science From University of Washington, Master Degree in Computer Science from City University of Seattle. <p>
+<p>Navy veterans with active clearance.<p>
+<p>Experienced in Full-Stack Web Development and Machine Learning projects.<p>
 
