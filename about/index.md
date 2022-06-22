@@ -11,7 +11,7 @@ comments: false
 <br><br>
 
 <p>Cleared Microsoft Vendor Developer specializing Networking Script and working on Federal Projects.<p> 
-<p>Doctoral student in Information technology at City University of Seattle.<p>
+<p>Doctoral student in Information Technology at City University of Seattle.<p>
 <p>B.S degree in Computer Science From University of Washington, Master Degree in Computer Science from City University of Seattle. <p>
 <p>Navy veterans with active secret clearance.<p>
 <p>Experienced in Full-Stack Web Development and Machine Learning projects.<p>
