@@ -14,5 +14,3 @@ comments: false
 <p>Doctoral student in Information Technology at City University of Seattle.<p>
 <p>B.S degree in Computer Science From University of Washington, Master Degree in Computer Science from City University of Seattle. <p>
 <p>Navy veterans with active secret clearance.<p>
-<p>Experienced in Full-Stack Web Development and Machine Learning projects.<p>
-
